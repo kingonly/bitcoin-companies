@@ -1,7 +1,7 @@
 [
   {
     "Name": "ACINQ",
-    "Description": "a French startup building products and services for the Bitcoin ecosystem",
+    "Description": "A French startup building products and services for the Bitcoin ecosystem",
     "Tags": "lightning",
     "HQ": "Paris, France",
     "Contact": "https://acinq.co/",
@@ -17,7 +17,7 @@
   },
   {
     "Name": "BITTR",
-    "Description": "set up a recurring SEPA payment to us and we'll take care of the bitcoin purchase as well as the payout to your bitcoin wallet",
+    "Description": "Set up a recurring SEPA payment to us and we'll take care of the bitcoin purchase as well as the payout to your bitcoin wallet",
     "Tags": "lightning, exchange, banking",
     "HQ": "Oostburg, Netherlands",
     "Contact": "https://www.getbittr.com",
@@ -49,7 +49,7 @@
   },
   {
     "Name": "The Lightning Conference",
-    "Description": "he Lightning Conference will be the first event to bring together the three major Lightning implementations, developers, and the broader community",
+    "Description": "The Lightning Conference will be the first event to bring together the three major Lightning implementations, developers, and the broader community",
     "Tags": "lightning",
     "HQ": "Berlin, Germany",
     "Contact": "https://www.thelightningconference.com/",
